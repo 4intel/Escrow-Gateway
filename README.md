@@ -4,8 +4,13 @@ chainpool gateway(Node.JS 웹서버) 프로젝트
 
 의존성
 ---------------------------------------------------------------
-Node.JS, nodemon
-참고 : [Node.JS 설치](http://dev01.4intel.net/mediawiki/index.php/%EC%B0%B8%EA%B3%A0/Node.JS)
+Install Node.JS, nodemon
+
+```
+curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+sudo apt-get install -y nodejs
+sudo npm install nodemon -g
+```
 
 실행
 ---------------------------------------------------------------
