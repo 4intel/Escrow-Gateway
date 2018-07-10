@@ -1,8 +1,8 @@
-개요
+Summary
 ---------------------------------------------------------------
-chainpool gateway(Node.JS 웹서버) 프로젝트
+Escrow Gateway(Node.JS Web Server) Project
 
-의존성
+Prerequisite
 ---------------------------------------------------------------
 Install Node.JS, nodemon
 
@@ -12,13 +12,13 @@ sudo apt-get install -y nodejs
 sudo npm install nodemon -g
 ```
 
-실행
+Usage
 ---------------------------------------------------------------
-* node modules 설치
+* Install node modules
 <pre>
 	npm install
 </pre>
-* 서버 시작
+* Start Server
 <pre>
 	bash chainpool.sh
 </pre>
